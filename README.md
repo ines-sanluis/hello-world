@@ -1,33 +1,30 @@
 # Hello World
 
-Welcome to my hello world repository! This is a simple project to demonstrate GitHub basics.
+A simple web page that displays "Hello World" using HTML.
 
 ## Features
 
-- Basic repository setup
-- README documentation
-- Simple code examples
+- Clean, minimal HTML page
+- Basic styling with CSS
+- Responsive design
 
 ## Getting Started
 
-1. Clone the repository
-```bash
-git clone https://github.com/ines-sanluis/hello-world.git
-```
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ines-sanluis/hello-world.git
+   ```
 
-2. Navigate to the project directory
-```bash
-cd hello-world
-```
+2. Open `index.html` in your web browser
 
 ## Contributing
 
-Feel free to contribute to this project by:
-1. Forking the repository
-2. Creating a feature branch
-3. Making your changes
-4. Submitting a pull request
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
